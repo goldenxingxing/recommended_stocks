@@ -1,1 +1,2 @@
-rec time: 2025-02-21 20:50:57, rec result: dict_keys(['600361.SH', '600995.SH', '000568.SZ'])
+rec time: 2025-02-21 20:50:57
+rec result: dict_keys(['600361.SH', '600995.SH', '000568.SZ'])
